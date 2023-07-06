@@ -1,2 +1,2 @@
 # RESUME
-resume-js
+gpraveenkumar.netlify.app 
